@@ -68,7 +68,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/frchaulia/frchaulia/output/snake.svg" alt="Snake animation" />
-
-###

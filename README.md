@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Aulia!</h1>
+<h1 align="center">Hi✨, I'm Aulia!</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/m5oQabBdoOye4/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/m5oQabBdoOye4/giphy.gif"  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
   <a href="https://discord.com/channels/@frchaulia" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="instagram.com/frcleaa_" target="_blank">
+  <a href="https://www.instagram.com/frcleaa_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -32,41 +32,41 @@
 
 ###
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left"> Languages and Tools :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="30" alt="grafana logo"  />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="35" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="35" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="35" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="35" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 align="left">Statistics :</h3>
+<h3 align="left"> Statistics :</h3>
 
 ###
 

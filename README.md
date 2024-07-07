@@ -22,7 +22,7 @@
 
 ###
 
-<h6 align="center"> Developer enthusiastic about about web and app innovation, design, and data. Constantly learning and eager to collaborate on projects that make a difference. </br> Let's connect and make something great together! 🚀🔍</h6>
+<h6 align="center"> Developer enthusiastic about web and app dev, design, and data. Constantly learning and eager to collaborate on projects that make a difference. </br> Let's connect and make something great together! 🚀🔍</h6>
 
 ###
 

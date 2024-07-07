@@ -22,7 +22,7 @@
 
 ###
 
-<h6 align="center">A passionate exploring the world of Data Analysis. Also interested in AI and Machine Learning. <br>I'm on a continuous journey to expand my expertise. Let's connect, collaborate, and transform analysis into something extraordinary! 🚀🔍</h6>
+<h6 align="center"> Developer enthusiastic about about web and app innovation, design, and data. Constantly learning and eager to collaborate on projects that make a difference. </br> Let's connect and make something great together! 🚀🔍</h6>
 
 ###
 
@@ -37,32 +37,39 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="35" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="35" alt="next.js logo" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="35" alt="grafana logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="35" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="35" alt="flutter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="35" alt="dart logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="35" alt="adobeillustrator logo"  />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="35" alt="flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="35" alt="adobeillustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
 </div>
+
 
 ###
 
